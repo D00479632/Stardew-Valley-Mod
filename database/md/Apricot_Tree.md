@@ -1,0 +1,23 @@
+From Stardew Valley Wiki
+
+Apricot Tree
+
+Information Sapling: Apricot Sapling Sapling Price: data-sort-value="2000"&gt;2,000g Sapling Price: data-sort-value="500"1,500–2,500g Produce: Apricot Growth Time: 28 days Harvest Season:  Spring
+
+The **Apricot Tree** is a type of fruit tree. It takes 28 days to grow to maturity, after which it will produce one Apricot each day during the Spring. It can only grow in the center of a 3x3 square, each square of which must be kept completely clear of objects, flooring, and terrain features (including grass). The 3x3 grid must not overlap the 3x3 grid of another Fruit Tree.
+
+For each full year after maturing, fruit trees will produce higher quality fruit, up to iridium star quality after three years. Note that the 3x3 square around the tree doesn't have to be kept clear once the tree has fully grown.
+
+If struck by lightning during a storm, the tree will produce Coal for 4 days instead of fruit.
+
+Fruit trees can be planted in the Greenhouse.
+
+## Stages of Growth
+
+Stage 1 Stage 2 Stage 3 Stage 4 Stage 5 - Spring, Summer, Fall, Winter
+
+7 Days 7 Days 7 Days 7 Days Total: 28 Days
+
+## Gallery
+
+Apricot Tree hit by lightning

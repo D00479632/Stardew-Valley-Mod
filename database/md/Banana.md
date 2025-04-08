@@ -1,0 +1,120 @@
+From Stardew Valley Wiki
+
+Banana A sweet, starchy tropical fruit. Information Source Banana Tree Seed Banana Sapling Growth Time 28 days Harvest Season  All on Ginger Island  
+ Summer in Stardew Valley Energy / Health
+
+75
+
+33
+
+105
+
+47
+
+135
+
+60
+
+195
+
+87
+
+Sell Prices Base Tiller *(+10%)*
+
+150g
+
+187g
+
+225g
+
+300g
+
+165g
+
+205g
+
+247g
+
+330g
+
+Artisan Sell Prices Base Artisan *(+40%)*
+
+450g
+
+562g
+
+675g
+
+900g
+
+350g
+
+1,150g
+
+630g
+
+786g
+
+945g
+
+1,260g
+
+490g
+
+1,610g
+
+The **Banana** is a fruit produced each day by a Banana Tree during its harvest season. A Banana Tree on the Farm in Stardew Valley produces fruit during Summer. On Ginger Island or in the Greenhouse, it produces fruit year-round.
+
+A Blue Discus Fish Pond has a 5-15% chance of producing a banana daily once the population of the pond reaches 4.
+
+## Contents
+
+- 1 Gifting
+- 2 Bundles
+- 3 Quests
+- 4 Recipes
+- 5 Buildings
+- 6 Tailoring
+- 7 Golden Walnuts
+- 8 History
+
+## Gifting
+
+Villager Reactions
+
+Like  Demetrius •  Elliott •  Harvey •  Jodi •  Kent •  Leah •  Linus •  Pam •  Robin •  Sandy •  Shane Neutral  Alex •  Caroline •  Clint •  Dwarf •  Emily •  Evelyn •  George •  Gus •  Krobus •  Leo •  Lewis •  Marnie •  Maru •  Penny •  Pierre •  Sam •  Sebastian •  Willy •  Wizard Dislike  Abigail •  Haley •  Jas •  Vincent
+
+## Bundles
+
+Banana is not used in any bundles.
+
+## Quests
+
+The Banana is not used in any quests.
+
+## Recipes
+
+Image Name Description Ingredients Energy / Health Buff(s) Buff Duration Recipe Source(s) Sell Price
+
+Banana Pudding A creamy dessert with a wonderful tropical flavor. Banana (1)
+
+Milk (1) (Any)
+
+Sugar (1) 125  
+56 Mining (+1) Luck (+1) Defense (+1) 5m 1s Island Trader for Bone Fragment (30) data-sort-value="260"&gt;260g
+
+## Buildings
+
+Ten bananas are required to purchase the Island Obelisk from the Wizard's Tower.
+
+Image Name Description Cost Size
+
+Island Obelisk Warps you to Ginger Island. data-sort-value="1000000"&gt;1,000,000g Iridium Bar (10) Dragon Tooth (10) Banana (10) **3x2**
+
+## Tailoring
+
+Banana is used in the spool of the Sewing Machine with Cloth in the feed to create a dyeable Relaxed Fit Pants. It is a yellow dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at Emily's and Haley's house, 2 Willow Lane, for use in dyeing.
+
+## Golden Walnuts
+
+Banana is used to activate the Banana Shrine on Ginger Island, to the left of the staircase leading to Leo's house. When a banana is placed on the shrine the torches light and a gorilla appears and gives the player 3 Golden Walnuts.

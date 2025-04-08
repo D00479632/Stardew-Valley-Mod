@@ -1,0 +1,46 @@
+From Stardew Valley Wiki
+
+Strange Doll
+
+??? Information Artifact Spots:
+
+- The Farm (0.08%)
+- The Bus Stop (0.07%)
+- Pelican Town (0.07%)
+- The Beach (0.06%)
+- Cindersap Forest (0.06%)
+- The Mountain (0.06%)
+
+Monster Drops: N/A Other Sources: Fishing Treasure Chest (0.12%)
+
+Tilling in The Mines or Skull Cavern (0.03%) Secret Note #17
+
+Sell Price: data-sort-value="1000 "&gt;1,000g
+
+The **Strange Doll** is an Artifact that can be found by digging up an Artifact Spot in many locations (The Farm, the Bus Stop, Pelican Town, The Beach, or Cindersap Forest), or in Fishing Treasure Chests after reaching Fishing level 2. It may also rarely be found by tilling soil in The Mines or Skull Cavern. One Strange Doll (green) is always obtained after solving the secret in Secret Note #17.
+
+## Contents
+
+- 1 Donation
+- 2 Gifting
+- 3 Tailoring
+- 4 Trivia
+- 5 History
+
+## Donation
+
+Donation of this item contributes to the total count of donations for the Museum.
+
+## Gifting
+
+Villager Reactions
+
+Love  Jas Like  Dwarf •  Penny Dislike  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+## Tailoring
+
+The Strange Doll (green) is used in the spool of the Sewing Machine to create the Wumbus Shirt. It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Trivia
+
+- Both the Strange Dolls resemble characters in a series of webcomics called Wumbus World, created by ConcernedApe in 2011. The green Strange Doll also resembles the Wumbus Statue and the protagonist of the film Wumbus, which are also references to the webcomic.

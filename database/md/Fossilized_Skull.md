@@ -1,0 +1,38 @@
+From Stardew Valley Wiki
+
+Fossilized Skull
+
+It's a perfect specimen! Information Artifact Spots: N/A Monster Drops: N/A Other Sources: Golden Coconut (14%) Donation Reward: Golden Walnut (6) Sell Price: data-sort-value="100"&gt;100g
+
+The **Fossilized Skull** is an item that can be obtained by breaking Golden Coconuts. The first Golden Coconut always produces a Golden Walnut; thereafter there is a 14% chance to obtain a Fossilized Skull.
+
+## Contents
+
+- 1 Donation
+- 2 Gifting
+- 3 Bone Mill
+- 4 Tailoring
+- 5 Quests
+- 6 History
+
+## Donation
+
+The Fossilized Skull can be donated as part of a Large Animal to the Island Field Office, which rewards 6 Golden Walnuts and a Banana Sapling once the specimen is completed.
+
+## Gifting
+
+Villager Reactions
+
+Hate  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+## Bone Mill
+
+The Fossilized Skull can be turned into Quality Fertilizer, Speed-Gro, Deluxe Speed-Gro or Tree Fertilizer in the Bone Mill.
+
+## Tailoring
+
+Fossilized Skull is used in the spool of a Sewing Machine to create the Skeleton Shirt. It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Quests
+
+- "Fragments of the past": Gunther may make a request on the Special Orders board for 100 of any combination of bone items that must be gathered while the quest is active. You have 7 days to complete the quest. The reward is data-sort-value="3500"&gt;3,500g and the Bone Mill recipe.

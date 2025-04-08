@@ -1,0 +1,30 @@
+From Stardew Valley Wiki
+
+The quarry mine entrance, north of the bridge
+
+The **Quarry Mine** cave entrance is located on the left edge of the Quarry, north of the bridge. It is outside, not located in The Mines. Inside the cave is a ladder that goes down to the mine. The mine itself consists of one long floor.
+
+At the end of the cave is a statue of the Grim Reaper, and upon first encounter the statue holds the Golden Scythe. When the statue is right-clicked on, the scythe will be added to the tool set if the inventory is not full. If it is full, the player will get an "inventory full" message. Freeing up an inventory space will allow them to receive the Golden Scythe. Any time the statue is clicked on afterwards the player will be transported back to the entrance of the quarry mine.
+
+The Quarry Mine contains several monsters: Haunted Skulls, Copper Slimes, and Iron Slimes. The main mine path is populated with common gray and brown rocks and Copper and Iron Nodes. An alternate path blocked by Boulders contains several Skeletons, including Skeleton (dangerous) and Skeleton Mages. This side path also contains Coal nodes.
+
+The quarry mine resets at the end of the day, instead of when exiting it, so it cannot be repeatedly "farmed" in a single day.
+
+Passing out due to low health in the Quarry Mine will result in the player being woken up in Harvey's Clinic. A fee of data-sort-value="1000"&gt;1,000g will be deducted for emergency surgery. Several items may also be lost. \[1] If the player passes out due to low health while the Desert Festival is occurring, they will be woken up at Harvey's medical station in the desert. \[2]
+
+## Contents
+
+- 1 Special Drops
+- 2 Gallery
+- 3 Notes
+- 4 References
+- 5 History
+
+## Special Drops
+
+Monsters, crates, and barrels in the Quarry Mine may randomly drop the same special items that can be found in the Skull Cavern.
+
+## Gallery
+
+- The Quarry Mine
+- The Quarry Mine location, relative to a very well decorated Mines entrance

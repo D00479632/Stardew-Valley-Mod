@@ -1,0 +1,95 @@
+From Stardew Valley Wiki
+
+Leek A tasty relative of the onion. Information Source Foraging • Spring Seeds Season  Spring XP 7 Foraging XP Energy / Health
+
+40
+
+18
+
+56
+
+25
+
+72
+
+32
+
+104
+
+46
+
+Sell Price
+
+60g
+
+75g
+
+90g
+
+120g
+
+Artisan Sell Prices Base Artisan *(+40%)*
+
+135g
+
+170g
+
+189g
+
+238g
+
+The **Leek** is found via foraging in the Spring, or grown from Spring Seeds. The Statue Of Endless Fortune produces one Leek per year on George's birthday, Fall 24. It can randomly be found in Garbage Cans during Spring.
+
+Leeks are most common on the Mountain and Backwoods maps, where 58% of spring forage items will be Leeks. They can also be found at the Bus Stop (20%), Railroad (20%) and the Forest Farm (25%).
+
+## Contents
+
+- 1 Gifting
+- 2 Bundles
+- 3 Recipes
+  
+  - 3.1 Cooking
+  - 3.2 Crafting
+- 4 Tailoring
+- 5 Quests
+- 6 History
+
+## Gifting
+
+Villager Reactions
+
+Love  George Like  Harvey •  Leah •  Linus •  Penny Neutral  Abigail •  Alex •  Clint •  Demetrius •  Emily •  Evelyn •  Gus •  Kent •  Lewis •  Marnie •  Maru •  Pam •  Robin •  Sandy Dislike  Caroline •  Dwarf •  Elliott •  Haley •  Jas •  Jodi •  Krobus •  Leo •  Pierre •  Sam •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+## Bundles
+
+Leek is used in the Spring Foraging Bundle in the Crafts Room.
+
+## Recipes
+
+### Cooking
+
+Image Name Description Ingredients Energy / Health Recipe Source(s) Sell Price
+
+Salad A healthy garden salad. Leek (1) Dandelion (1) Vinegar (1) 113  
+50
+
+Emily (Mail - 3+ )
+
+data-sort-value="110"&gt;110g
+
+### Crafting
+
+Image Name Description Ingredients Recipe Source Sell Price
+
+Wild Seeds (Sp) An assortment of wild spring seeds.  
+*(Produces 10 Spring Seeds per craft.)* Wild Horseradish (1) Daffodil (1) Leek (1) Dandelion (1) Foraging Level 1 data-sort-value="35"&gt;35g
+
+## Tailoring
+
+Leek is used in the spool of the Sewing Machine with Cloth in the feed to create a Lime Green Tunic. It is a white dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed.
+
+## Quests
+
+- Evelyn requests a Leek by mail on the 15th of Spring (year 2) in the "Granny's Gift" quest. The reward is data-sort-value="500"&gt;500g and 1 Friendship heart.
+- A Leek may be randomly requested in Spring at the "Help Wanted" board outside Pierre's General Store for a reward of data-sort-value="180"&gt;180g and 150 Friendship points.
+- Evelyn requests 12 Leeks in the "Gifts for George" Special Order. The rewards are data-sort-value="2000"&gt;2,000g and a Coffee Maker.

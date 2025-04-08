@@ -1,0 +1,5 @@
+From Stardew Valley Wiki
+
+Hi there! The name's PrismaticGlasses. I'm currently on year 9 of SDV, I've seen nearly every cutscene, I'm married to Maru, and I have all four grandpa candles lit. I play on the Nintendo Switch version of the game, but I'm planning on getting the PC version. Most of my edits here on the wiki are going to be grammar/spelling fixes, as well as updating the French part of the wiki. I've nearly mastered English grammar, and I can spot a spelling error in a heartbeat. I'm fairly decent at speaking French, and I can spot spelling/grammar errors with French, but not nearly as well as I can with English. I don't really know what else to put here, so I'm leaving it at that.
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=User:PrismaticGlasses&amp;oldid=139870"

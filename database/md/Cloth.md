@@ -1,0 +1,64 @@
+From Stardew Valley Wiki
+
+Cloth A bolt of fine wool cloth. Information Source
+
+- Artisan Goods
+- Recycling
+- Mummy
+- Desert Trader
+- Traveling Cart
+
+Sell Prices Base Rancher *(+20%)* Artisan *(+40%)*
+
+470g
+
+564g
+
+658g
+
+Artisan Goods Equipment Loom Processing Time 240m (≈4h) Ingredients Wool (1)
+
+**Cloth** is an Artisan Good made from the Loom using Wool, taking 4 hours. Occasionally the Traveling Cart will offer it in her rotating stock. It can also be made by recycling a Soggy Newspaper using the Recycling Machine, or dropped from Mummies when slain. Emily may occasionally send you a Cloth in the mail. She also sells a set of five Cloth at her shop at the Desert Festival for data-sort-value="25"&gt; 25 Calico Eggs. The Desert Trader will trade three Aquamarines for one cloth on Wednesdays.
+
+Placing quality Wool into a Loom gives a chance to produce 2 Cloth. Silver gives a 10% chance, gold gives a 50% chance, and iridium gives a 100% chance.
+
+## Contents
+
+- 1 Gifting
+- 2 Bundles
+- 3 Crafting
+- 4 Building
+- 5 Quests
+- 6 History
+
+## Gifting
+
+Villager Reactions
+
+Love  Emily Like  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Shane •  Willy •  Wizard Hate  Jas •  Sebastian •  Vincent
+
+## Bundles
+
+Cloth is an option for the Artisan Bundle in the Pantry.
+
+## Crafting
+
+In addition to Tailoring clothing, cloth is used to make the following items:
+
+Image Name Description Ingredients Recipe Source
+
+Dressed Spinner The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing. Iron Bar (2) Cloth (1) Fishing Level 8
+
+Tent Kit Use this to deploy a one-time-use tent for sleeping. Can only be used outdoors. Hardwood (10) Fiber (25) Cloth (1) Foraging Level 8
+
+## Building
+
+Cloth is required to purchase the following buildings from the Carpenter's Shop:
+
+Image Name Description Ingredients
+
+Mill Allows you to mill wheat, beets and rice. Stone (50) Wood (150) Cloth (4)
+
+## Quests
+
+Cloth is not used in any quests.

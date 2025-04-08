@@ -1,0 +1,38 @@
+From Stardew Valley Wiki
+
+Golden Pumpkin It's valuable but has no other purpose. Information Source Spirit's Eve  
+Artifact Trove Mystery Box Golden Mystery Box Season  Fall Energy *Inedible* Sell Price data-sort-value="2500"&gt;2,500g
+
+The **Golden Pumpkin** is an item that can be obtained every other year during the Spirit's Eve Festival by completing the maze. It can also be found in Artifact Troves (3.7% chance), Mystery Boxes, and Golden Mystery Boxes.
+
+It can be sold through the Shipping Bin for data-sort-value="2500"&gt;2,500g. Despite its description, it has two other uses:
+
+- It can be gifted as a universally loved gift.
+- It can be tailored into a Witch Hat at the sewing machine at Emily's house or the sewing machine gifted by Emily.
+
+## Contents
+
+- 1 Gifting
+- 2 Bundles
+- 3 Tailoring
+- 4 Quests
+- 5 Notes
+- 6 History
+
+## Gifting
+
+Villager Reactions
+
+Love  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+## Bundles
+
+The Golden Pumpkin is not used in any bundles.
+
+## Tailoring
+
+A Golden Pumpkin is used in the spool of the Sewing Machine to create the Witch Hat. It can be used in dyeing, serving as a yellow dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Quests
+
+The Golden Pumpkin is not used in any quests.

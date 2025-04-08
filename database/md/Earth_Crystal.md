@@ -1,0 +1,53 @@
+From Stardew Valley Wiki
+
+Earth Crystal
+
+A resinous substance found near the surface. Information Source The Mines Geode Omni Geode Duggy (10%) Haunted Skull (1.30%) Wilderness Golem (0.5%) Iridium Golem (0.5%) Panning Fishing Sell Price data-sort-value="50 "&gt;50g Gemologist Profession *(+30% Sell Price)* data-sort-value="65 "&gt;65g
+
+An **Earth Crystal** is a type of Mineral. It can be foraged in The Mines (especially floors 1 - 39), or obtained from Geodes and Omni Geodes, dropped from Duggies in the Mines (floors 1 - 29), dropped from Haunted Skulls, or from panning. It can also be found in Fishing Treasure Chests or in a Garbage Can.
+
+Wilderness Golems and Iridium Golems on the Wilderness Farm map have a 0.5% chance of dropping an Earth Crystal when slain.
+
+Earth Crystals can be destroyed by bombs.
+
+## Contents
+
+- 1 Gifting
+- 2 Bundles
+- 3 Recipes
+- 4 Buildings
+- 5 Tailoring
+- 6 Quests
+- 7 History
+
+## Gifting
+
+Villager Reactions
+
+Like  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Marnie •  Maru •  Pam •  Penny •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard Dislike  Linus •  Pierre
+
+## Bundles
+
+Earth Crystal is used in the Geologist's Bundle in the Boiler Room.
+
+## Recipes
+
+Image Name Description Ingredients Recipe Source Mayonnaise Machine Turns eggs into mayonnaise. Wood (15) Stone (15) Earth Crystal (1) Copper Bar (1) Farming Level 2
+
+## Buildings
+
+Earth Crystal is required to purchase the Earth Obelisk from the Wizard's Tower.
+
+Image Name Description Cost Size
+
+Earth Obelisk Warps you to the mountains. data-sort-value="500000"&gt;500,000g Iridium Bar (10) Earth Crystal (10) **3x2**
+
+## Tailoring
+
+Earth Crystal is used in the spool of the Sewing Machine to create a Shirt. It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Quests
+
+- Earth Crystal may be randomly requested during any season at the "Help Wanted" board outside Pierre's General Store for a reward of data-sort-value="150"&gt;150g and 150 Friendship points.
+- 5 Earth Crystal are requested by Stonefish in a Fish Pond quest to increase the capacity of the pond from 3 to 5.
+- 1-2 Earth Crystal may be requested by Bullhead, Catfish, or Largemouth Bass in a Fish Pond quest to increase the capacity of the pond from 5 to 7.

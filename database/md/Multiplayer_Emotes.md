@@ -1,0 +1,23 @@
+From Stardew Valley Wiki
+
+Emotes are short actions that the player character can act out, which will also show the emote over the players head in a thought bubble.
+
+Emotes can be activated by typing it into chat using the emote command(`/emote <emote>`), or by pressing the **Emote Menu** keybind (Default Y), and on controller Hold Right Thumb Stick.
+
+Emotes
+
+Happy Sad Heart Exclamation Note Sleep
+
+Game Question X Pause Blush Angry
+
+Yes No Sick Laugh Surprised Hi!
+
+Taunt Uh Music Jar
+
+- **Blush**, **Jar**, **Music** and **Taunt** are hidden from the emote menu until you type them as a command, such as `/emote jar` in the chat window.
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Multiplayer/Emotes&amp;oldid=179630"
+
+Category:
+
+- Gameplay

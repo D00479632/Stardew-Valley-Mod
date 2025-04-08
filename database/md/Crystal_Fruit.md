@@ -1,0 +1,98 @@
+From Stardew Valley Wiki
+
+Crystal Fruit A delicate fruit that pops up from the snow. Information Source Foraging • Winter Seeds • Dust Sprites Season  Winter XP
+
+- Foraging: 7 Foraging XP
+- Winter Seeds: 7 Foraging XP
+- Dust Sprites: 0
+
+Energy / Health
+
+63
+
+28
+
+88
+
+39
+
+113
+
+50
+
+163
+
+73
+
+Sell Price
+
+150g
+
+187g
+
+225g
+
+300g
+
+Artisan Sell Prices Base Artisan *(+40%)*
+
+450g
+
+562g
+
+675g
+
+900g
+
+350g
+
+1,150g
+
+630g
+
+786g
+
+945g
+
+1,260g
+
+490g
+
+1,610g
+
+The **Crystal Fruit** is found via foraging in the Winter, by killing Dust Sprites in The Mines (floors 41 to 79), or by growing Winter wild seeds. It can also randomly be found in Garbage Cans during Winter.
+
+## Contents
+
+- 1 Gifting
+- 2 Bundles
+- 3 Recipes
+- 4 Tailoring
+- 5 Quests
+- 6 History
+
+## Gifting
+
+Villager Reactions
+
+Like  Demetrius •  Elliott •  Harvey •  Jodi •  Kent •  Leah •  Linus •  Pam •  Robin •  Sandy •  Shane Neutral  Alex •  Caroline •  Clint •  Dwarf •  Emily •  Evelyn •  George •  Gus •  Krobus •  Leo •  Lewis •  Marnie •  Penny •  Pierre •  Sam •  Sebastian •  Willy •  Wizard Dislike  Abigail •  Haley •  Jas •  Maru •  Vincent
+
+## Bundles
+
+Crystal Fruit is used in the Winter Foraging Bundle in the Crafts Room.
+
+## Recipes
+
+Image Name Description Ingredients Recipe Source Sell Price
+
+Wild Seeds (Wi) An assortment of wild winter seeds.  
+*(Produces 10 Winter Seeds per craft.)* Crocus (1) Crystal Fruit (1) Snow Yam (1) Winter Root (1) Foraging Level 7 data-sort-value="30"&gt;30g
+
+## Tailoring
+
+Crystal Fruit is used in the spool of the Sewing Machine to create a Shirt. It can be used in dyeing, serving as a blue dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Quests
+
+- The Crystal Fruit may be randomly requested in Winter at the "Help Wanted" board outside Pierre's General Store for a reward of data-sort-value="450"&gt;450g and 150 Friendship points.
+- One Crystal Fruit may be requested by Ice Pip in a Fish Pond quest to increase the capacity of the pond from 5 to 7.

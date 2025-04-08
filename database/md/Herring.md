@@ -1,0 +1,133 @@
+From Stardew Valley Wiki
+
+Herring
+
+A common ocean fish. Information
+
+Location Ocean Time Any Season  Spring •  Winter Weather Any Difficulty 25 Behavior Dart Size (inches) 8–21
+
+Fishing XP 11    14    17    23 Energy / Health
+
+13
+
+5
+
+18
+
+8
+
+23
+
+10
+
+33
+
+14
+
+Sell Prices Base Fisher  
+*(+25%)* Angler  
+*(+50%)*
+
+30g
+
+37g
+
+45g
+
+60g
+
+37g
+
+46g
+
+56g
+
+75g
+
+45g
+
+55g
+
+67g
+
+90g
+
+Artisan Sell Prices Roe Aged Roe Aged Roe *(+40%)*
+
+45g
+
+90g
+
+126g
+
+The **Herring** is a fish that can be caught in the ocean at The Beach or on the Beach Farm during Spring and Winter. It can also be found randomly at the Traveling Cart for data-sort-value="30"100–1,000g or in Garbage Cans during Spring or Winter.
+
+Herring can be caught regardless of season using Magic Bait.
+
+## Contents
+
+- 1 Map
+- 2 Gifting
+- 3 Bundles
+- 4 Recipes
+- 5 Tailoring
+- 6 Fish Pond
+- 7 Quests
+- 8 History
+
+## Map
+
+The Herring can be found in the ocean.
+
+## Gifting
+
+Villager Reactions
+
+Neutral  Demetrius •  Elliott •  Leo •  Linus •  Pam •  Sebastian •  Willy Dislike  Abigail •  Alex •  Caroline •  Clint •  Dwarf •  Emily •  George •  Gus •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Marnie •  Maru •  Penny •  Robin •  Sam •  Sandy •  Shane •  Vincent •  Wizard Hate  Evelyn •  Haley •  Pierre
+
+## Bundles
+
+Herring is not used in any bundles.
+
+## Recipes
+
+Image Name Description Ingredients Energy / Health Recipe Source(s) Sell Price
+
+Maki Roll Fish and rice wrapped in seaweed. Any Fish (1) Seaweed (1) Rice (1) 100  
+45
+
+The Queen of Sauce 21 Summer, Year 1
+
+Stardrop Saloon for data-sort-value="300"&gt;300g
+
+data-sort-value="220"&gt;220g
+
+Quality Fertilizer Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil. Sap (4) Any Fish (1) N/A Farming Level 9 data-sort-value="10"&gt;10g
+
+Sashimi Raw fish sliced into thin pieces. Any Fish (1) 75  
+33
+
+Linus (Mail - 3+ )
+
+data-sort-value="75"&gt;75g
+
+## Tailoring
+
+Herring can be used in the spool of the Sewing Machine to create the dyeable Sailor Shirt. It can be used in dyeing, serving as a blue dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Fish Pond
+
+Herring can be placed in a Fish Pond, where they will reproduce every day. The initial pond capacity is 3 fish, but the capacity can be increased to 10 by completing two quests. The only possible output is blue Herring Roe.
+
+**Quests**
+
+Pond Capacity Quest Item Fishing XP Granted Before Quest After Quest 3 5 3 Driftwood 25 5 10 1 Coral 25
+
+**Produce**
+
+Item(s) Produced Fishing XP Granted Population % of Items Overall Daily Chance Roe (1) 11 1-10 100% 23-95% *Nothing* 1-10 0% 77-5%
+
+## Quests
+
+- **Item Delivery:** One Herring may be randomly requested in Spring or Winter at the "Help Wanted" board outside Pierre's General Store for a reward of data-sort-value="90"&gt;90g and 150 Friendship points.
+- **Fishing:** Demetrius or Willy may randomly request 1-5 herring during Spring or Winter at the "Help Wanted" board outside Pierre's General Store for a reward of data-sort-value="30"&gt;30g per fish. (You get to keep the fish).

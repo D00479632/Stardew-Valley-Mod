@@ -1,0 +1,58 @@
+From Stardew Valley Wiki
+
+Dragon Tooth These are rumored to be the teeth of ancient serpents. The enamel is made of pure iridium! Information Source Volcano Dungeon • Stingray Fish Pond Sell Price data-sort-value="500"&gt;500g
+
+The **Dragon Tooth** is a special item that can be obtained in the Volcano Dungeon within the skeletal remains of a dragon or by killing a Lava Lurk (15% drop chance). They can also be acquired from a Stingray Fish Pond with a population of at least 9.
+
+Five Dragon Teeth can be used to purchase a Banana Sapling from the Island Trader.
+
+Dragon remains with Dragon Teeth
+
+## Contents
+
+- 1 Forging
+- 2 Recipes
+- 3 Crafting
+- 4 Buildings
+- 5 Gifting
+- 6 Tailoring
+- 7 Quests
+- 8 History
+
+## Forging
+
+Dragon Teeth can be used at the Forge to add an Innate Enchantment to a weapon.
+
+## Recipes
+
+Image Name Description Ingredients Recipe Source(s) Sell Price
+
+Warp Totem: Island Warp directly to Ginger Island. Consumed on use. Hardwood (5) Dragon Tooth (1) Ginger (1) Volcano Dwarf for data-sort-value="10000"&gt;10,000g data-sort-value="20"&gt;20g
+
+## Crafting
+
+Image Name Description Ingredients Recipe Source
+
+Mini-Forge Now, you can use a dwarvish forge from the convenience of your home. Dragon Tooth (5) Iron Bar (10) Gold Bar (10) Iridium Bar (5) Combat Mastery
+
+## Buildings
+
+Ten dragon teeth are required to purchase the Island Obelisk from the Wizard's Tower.
+
+Image Name Description Cost Size
+
+Island Obelisk Warps you to Ginger Island. data-sort-value="1000000"&gt;1,000,000g Iridium Bar (10) Dragon Tooth (10) Banana (10) **3x2**
+
+## Gifting
+
+Villager Reactions
+
+Like  Leo Hate  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+## Tailoring
+
+Dragon Tooth is used in the spool of the Sewing Machine to create the Swashbuckler Hat. It can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Quests
+
+One Dragon Tooth is requested by Stingray in a Fish Pond quest to increase the capacity of the pond from 5 to 10.

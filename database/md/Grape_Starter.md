@@ -1,0 +1,36 @@
+From Stardew Valley Wiki
+
+Grape Starter
+
+Plant these in the fall. Takes 10 days to grow, but keeps producing after that. Grows on a trellis. Information Crop: Grape Growth Time: 10 days Season:
+
+Fall
+
+Sell Price: data-sort-value="30"&gt;30g Purchase Prices General Store: data-sort-value="60"&gt;60g JojaMart: data-sort-value="75"&gt;75g Traveling Cart: data-sort-value="30"100–1,000g Night Market  
+(Winter 17): data-sort-value="60"&gt;60g
+
+**Grape Starter** is a type of seed. Mature plants yield Grapes.
+
+It can be purchased at Pierre's General Store, at JojaMart, from the Magic Shop Boat at the Night Market on Winter 17, and occasionally from the Traveling Cart. It can also be obtained by using the Seed Maker.
+
+## Stages
+
+You cannot walk through grape plants grown from a Grape Starter at any stage of growth. You can walk through dead Grape plants.
+
+Stage 1 Stage 2 Stage 3 Stage 4 Stage 5 Harvest After-Harvest
+
+1 Day 1 Day 2 Days 3 Days 3 Days Total: 10 Days Regrowth: 3 Days
+
+## Gifting
+
+Villager Reactions
+
+Dislike  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Seeds, Starters, and Saplings Spring Apricot Sapling • Bean Starter • Carrot Seeds • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb Summer Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Summer Squash Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds Fall Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Broccoli Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds Winter Powdermelon Seeds • Winter Seeds Other Acorn • Ancient Seeds • Banana Sapling • Blue Grass Starter • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Flower Seeds • Mixed Seeds • Mossy Seed • Mushroom Tree Seed • Mystic Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Grape\_Starter&amp;oldid=176386"
+
+Category:
+
+- Fall seeds

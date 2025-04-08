@@ -1,0 +1,54 @@
+From Stardew Valley Wiki
+
+Radioactive Ore It's glowing with dangerous energy... Can be smelted into bars. Information Source The Mines • Skull Cavern Sell Price data-sort-value="300"&gt;300g
+
+**Radioactive Ore** is a resource found in Radioactive Nodes.
+
+## Contents
+
+- 1 Locations
+- 2 Smelting
+- 3 Crafting
+- 4 Gifting
+- 5 Tailoring
+- 6 Quests
+- 7 Trivia
+- 8 References
+- 9 History
+
+## Locations
+
+- Radioactive Nodes in The Mines during Danger In The Deep quest or after activating the Shrine of Challenge on floor 120 to increase the difficulty.
+- Radioactive Nodes in Skull Cavern during Skull Cavern Invasion quest or after activating the statue at the Cavern's entrance.
+
+The chance of finding Radioactive Nodes in either location increases as one goes deeper into the mine, and also with daily luck and luck buffs. It is most strongly affected by Daily Luck, and only slightly affected by depth in the mine and Luck Buffs.\[1]
+
+## Smelting
+
+Radioactive Ore can be smelted in a Furnace to create a Radioactive Bar. The smelting requires 5 Radioactive Ore and 1 Coal and takes 9 hours and 20 minutes in-game time.
+
+## Crafting
+
+Image Name Description Ingredients Recipe Source
+
+Hyper Speed-Gro Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil. Radioactive Ore (1) Bone Fragment (3) Solar Essence (1) Qi's Walnut Room for data-sort-value="30"&gt; 30
+
+Magic Bait (5) Allows you to catch fish from any season, time, or weather, from whichever type of water you cast into. Radioactive Ore (1) Bug Meat (3) Qi's Walnut Room for data-sort-value="20"&gt; 20
+
+## Gifting
+
+Villager Reactions
+
+Like  Maru Hate  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+## Tailoring
+
+Radioactive Ore is used in the spool of the Sewing Machine to create the Turtleneck Sweater. It can be used in dyeing, serving as a green dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Quests
+
+Radioactive Ore is not used in any quests.
+
+## Trivia
+
+Radioactive Ore is currently the only ore in the game that cannot be used as ammunition in a Slingshot.

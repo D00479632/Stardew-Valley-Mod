@@ -1,0 +1,34 @@
+From Stardew Valley Wiki
+
+Radish Seeds
+
+Plant these in the summer. Takes 6 days to mature. Information Crop: Radish Growth Time: 6 days Season:
+
+Summer
+
+Sell Price: data-sort-value="20"&gt;20g Purchase Prices General Store: data-sort-value="40"&gt;40g JojaMart: data-sort-value="50"&gt;50g Traveling Cart: data-sort-value="20"100–1,000g Night Market  
+(Winter 16): data-sort-value="40"&gt;40g
+
+**Radish Seeds** are a type of seed. Mature plants yield Radishes.
+
+They can be purchased at Pierre's General Store, at JojaMart, from the Magic Shop Boat at the Night Market on Winter 16, and occasionally from the Traveling Cart. They can also be obtained by using the Seed Maker, as well as having a chance of being planted when using Mixed Seeds. Five to twenty Radish Seeds may occasionally be found in treasure rooms in the Skull Cavern. Eight to twenty Radish Seeds may be received from opening a Mystery Box or Golden Mystery Box.
+
+## Stages
+
+Stage 1 Stage 2 Stage 3 Stage 4 Harvest
+
+2 Days 1 Day 2 Days 1 Day Total: 6 Days
+
+## Gifting
+
+Villager Reactions
+
+Dislike  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+Seeds, Starters, and Saplings Spring Apricot Sapling • Bean Starter • Carrot Seeds • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb Summer Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Summer Squash Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds Fall Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Broccoli Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds Winter Powdermelon Seeds • Winter Seeds Other Acorn • Ancient Seeds • Banana Sapling • Blue Grass Starter • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Flower Seeds • Mixed Seeds • Mossy Seed • Mushroom Tree Seed • Mystic Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber
+
+Retrieved from "https://stardewvalleywiki.com/mediawiki/index.php?title=Radish\_Seeds&amp;oldid=177791"
+
+Category:
+
+- Summer seeds

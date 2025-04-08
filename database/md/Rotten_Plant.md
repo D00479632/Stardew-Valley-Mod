@@ -1,0 +1,45 @@
+From Stardew Valley Wiki
+
+Rotten Plant     Decomposing organic material. It's slimy and unpleasant. Information Source Jack-O-Lantern Energy *Inedible* Sell Price data-sort-value="0"&gt;0g
+
+The **Rotten Plant** is a type of trash. It is produced by a Jack-O-Lantern that decomposes on the 1st of Winter (unless it has been stored in inventory or a chest).
+
+It cannot be placed in a Recycling Machine.
+
+## Contents
+
+- 1 Gifting
+- 2 Bundles
+- 3 Recipes
+- 4 Dyeing
+- 5 Quests
+- 6 Secret
+- 7 History
+
+## Gifting
+
+Villager Reactions
+
+Hate  Abigail •  Alex •  Caroline •  Clint •  Demetrius •  Dwarf •  Elliott •  Emily •  Evelyn •  George •  Gus •  Haley •  Harvey •  Jas •  Jodi •  Kent •  Krobus •  Leah •  Leo •  Lewis •  Linus •  Marnie •  Maru •  Pam •  Penny •  Pierre •  Robin •  Sam •  Sandy •  Sebastian •  Shane •  Vincent •  Willy •  Wizard
+
+## Bundles
+
+The Rotten Plant is not used in any bundles.
+
+## Recipes
+
+The Rotten Plant is not used in any recipes.
+
+## Dyeing
+
+Rotten Plant can be used in dyeing, serving as an orange dye at the dye pots, located in Emily's and Haley's house, 2 Willow Lane.
+
+## Quests
+
+The Rotten Plant can be used as an orange item in the Special Order "Qi's Prismatic Grange".
+
+## Secret
+
+After reading Secret Note #19, solving the puzzle, and obtaining the special reward item, a Rotten Plant may be produced under specific circumstances.
+
+**Details**  The Solid Gold Lewis statue can be placed anywhere in Pelican Town. If not destroyed by a villager walking through it, the next day it will be replaced with a Rotten Plant. This Rotten Plant can be removed with a tool, or by repeatedly left-clicking or holding left-click.

@@ -4,7 +4,7 @@ import json
 import time
 
 # Define paths and settings
-filestore_path = 'txt/'
+filestore_path = 'md/'
 index_name = 'stardew-valley-data'
 tracking_file = 'indexed_files.json'
 batch_size = 15  # Number of files to process in each run

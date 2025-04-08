@@ -93,6 +93,17 @@ The mod includes a `database.py` script that will index content from the [Starde
 - Takes approximately 2 hours to complete
 - Only needs to be run once
 
+```bash
+# Navigate to the database directory
+cd database
+
+# Unzip the md directory
+unzip md.zip
+
+# Start indexing
+python3 database.py
+```
+
 #### 3.5 Configure the Mod Settings
 1. Locate the `config.json` file in your mod folder
 2. Set the `PythonExePath` to your Python executable path
@@ -103,9 +114,6 @@ The mod includes a `database.py` script that will index content from the [Starde
 Before launching the game, you can test if the mod is working correctly by running the test script:
 
 ```bash
-# Navigate to the database directory
-cd database
-
 # Run the test script
 python3 rag.py
 ```

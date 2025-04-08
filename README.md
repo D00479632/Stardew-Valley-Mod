@@ -99,7 +99,34 @@ The mod includes a `database.py` script that will index content from the [Starde
    - With your virtual environment activated, run `which python` (Mac/Linux) or `where python` (Windows)
    - Copy the output path into the config file
 
-### 4. Using the Mod
+### 4. Testing the Mod
+Before launching the game, you can test if the mod is working correctly by running the test script:
+
+```bash
+# Navigate to the database directory
+cd database
+
+# Run the test script
+python3 rag.py
+```
+
+This script will:
+- Ask you to enter a question and process it like the mod would.
+- Measure and display the time taken for each component:
+  - Marqo search time (database lookup)
+  - LLM response time (AI processing)
+  - Total processing time
+- Show you the actual response that would appear in-game
+
+This test helps verify that:
+- Your database is properly indexed
+- Marqo is running correctly
+- Ollama is functioning properly
+- The entire system can generate responses
+
+If the test runs successfully, your mod is ready to use in-game.
+
+### 5. Using the Mod
 1. Before launching the game I recommend to run the check_services.sh. You can just do `chmod +x check_sevices.sh` and then `./check_sevices.sh` to make
 sure that ollama and marqo are running or otherwise the mod won't work.
 2. Launch Stardew Valley like normal
@@ -108,6 +135,8 @@ sure that ollama and marqo are running or otherwise the mod won't work.
 5. Note: Responses may take a few seconds to generate as all processing is done locally
    - You can continue playing while waiting for responses
    - The game menu can be closed and reopened at any time
+
+
 
 ## Troubleshooting
 If you encounter any issues:

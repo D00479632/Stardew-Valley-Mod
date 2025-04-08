@@ -2,7 +2,11 @@ from ollama import chat
 from marqo import Client
 import time  
 
-question = "Give me a list of people that like Diamond."
+print("Welcome to the Stardew Valley Assistant test!")
+print("This script will show you how the mod would respond to your question.")
+print("Enter your question about Stardew Valley (e.g., 'What crops are best for Spring?'):")
+question = input("> ")
+
 def get_ollama_response(question, context=""):
     question2 = "What gifts does Clint love?"
     context2 = get_marqo_context(question2)
@@ -43,6 +47,8 @@ def get_marqo_context(question):
         context += f"Source {i + 1}) {title} || {text} \n"
     return context
 
+print("\nProcessing your question...\n")
+
 # Final LLM call with context
 start_time = time.time()  # Start timing
 context = get_marqo_context(question)
@@ -57,4 +63,4 @@ total_time = marqo_time + llm_time  # Total time taken
 print(f"Marqo search time: {marqo_time:.2f} seconds")
 print(f"LLM response time: {llm_time:.2f} seconds")
 print(f"Total processing time: {total_time:.2f} seconds")
-print("\nThis is what you would get in the game: \n", final_response)
+print("\nThis is what you would get in the game: \n", final_response) 

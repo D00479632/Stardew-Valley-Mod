@@ -5,7 +5,7 @@ import time
 
 # Define paths and settings
 filestore_path = 'md/'
-index_name = 'stardew-valley-data'
+index_name = 'stardew-valley-db'
 tracking_file = 'indexed_files.json'
 batch_size = 15  # Number of files to process in each run
 cooldown_seconds = 5  # Time to wait between batches

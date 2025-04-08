@@ -1,7 +1,0 @@
-From Stardew Valley Wiki
-
-Forest Magic You are one with forest magic... Information Source Reward from the Meet The Wizard quest. Sell Price *Cannot be sold*
-
-**Forest Magic** permanently unlocks the ability to read the language of the Junimos. It is rewarded to the Player upon finishing the Meet The Wizard quest, which is unlocked the morning after the player examines the first golden scroll in the Community Center.
-
-Once obtained, the Forest Magic power can be found in the Special Items &amp; Powers tab in the Player's Menu.

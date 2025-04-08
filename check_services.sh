@@ -18,6 +18,7 @@ if pgrep -x "ollama" > /dev/null; then
     else
         echo -e "${YELLOW}! Gemma 3B model is not available${NC}"
         echo "To pull the Gemma 3B model, run: ollama pull gemma:3b"
+        echo "If you decided to use another model make sure you changed it in script.py"
     fi
 else
     echo -e "${RED}✗ Ollama is not running${NC}"

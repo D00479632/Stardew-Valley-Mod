@@ -1,13 +1,9 @@
 from ollama import chat
 from marqo import Client
-import os  # Import os module to interact with the file system
+import time  
 
-question = "What gifts does Clint love?"
-question = "Can you plant strawberries in the spring?"
-question = "What is the price of corn seeds?"
 question = "Give me a list of people that like Diamond."
 def get_ollama_response(question, context=""):
-    print("This is the context: ", context)
     question2 = "What gifts does Clint love?"
     context2 = get_marqo_context(question2)
     question3 = "Give me a list of people that like Amethyst."
@@ -32,7 +28,6 @@ def get_marqo_context(question):
     # Set up Marqo Client
     mq = Client(url='http://localhost:8882')
     
-    print("Searching marqo")
     # Perform search on Marqo index
     results = mq.index(index_name).search(
         q=question,
@@ -48,50 +43,18 @@ def get_marqo_context(question):
         context += f"Source {i + 1}) {title} || {text} \n"
     return context
 
-'''
-first_response = get_ollama_response(question)
-
-print("Just LLM Response:", first_response)
-'''
-
-
-# Define the path to the directory containing your text files
-filestore_path = 'Scraper/txt/crops'
-index_name = 'stardew-valley-data'
-
-'''
-# Initialize the DOCUMENTS list
-DOCUMENTS = []
-
-print("Getting documents ready")
-# Loop through each file in the filestore directory
-for filename in os.listdir(filestore_path):
-    if filename.endswith('.txt'):  # Check if the file is a text file
-        with open(os.path.join(filestore_path, filename), 'r') as file:
-            filecontent = file.read()  # Read the content of the file
-            DOCUMENTS.append({
-                'Title': filename, 
-                'Description': filecontent
-            })
-
-
-
-
-# Create index (delete if it exists)
-try:
-    mq.index(index_name).delete()
-except:
-    pass
-
-mq.create_index(index_name)
-
-# Index documents
-# Tensor fields are for similarity search
-mq.index(index_name).add_documents(DOCUMENTS, tensor_fields=["Title", "Description"])
-'''
-
-
 # Final LLM call with context
+start_time = time.time()  # Start timing
 context = get_marqo_context(question)
+marqo_time = time.time() - start_time  # Time taken for Marqo search
+
+start_time = time.time()  # Start timing for LLM
 final_response = get_ollama_response(question, context)
-print("LLM & Marqo Response:", final_response)
+llm_time = time.time() - start_time  # Time taken for LLM response
+
+total_time = marqo_time + llm_time  # Total time taken
+
+print(f"Marqo search time: {marqo_time:.2f} seconds")
+print(f"LLM response time: {llm_time:.2f} seconds")
+print(f"Total processing time: {total_time:.2f} seconds")
+print("\nThis is what you would get in the game: \n", final_response)

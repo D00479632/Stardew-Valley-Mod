@@ -2,11 +2,6 @@
 
 # Created by https://www.gitignore.io/api/macos,linux,django,python,pycharm
 
-# Project related
-txt/
-html/
-md/
-
 ### Django ###
 *.log
 *.pot

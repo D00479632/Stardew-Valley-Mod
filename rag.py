@@ -27,7 +27,7 @@ def get_marqo_context(question):
     # Perform search on Marqo index
     results = mq.index(index_name).search(
         q=question,
-        limit=1
+        limit=2
     )
 
     # Prepare context

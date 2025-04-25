@@ -50,10 +50,17 @@ else
 fi
 
 # Check if Marqo is running (cross-platform, uses curl)
-if command -v curl &>/dev/null && curl -s http://localhost:8882/health > /dev/null 2>&1; then
-    echo -e "${GREEN}✓ Marqo is running${NC}"
+if command -v curl &>/dev/null; then
+    # Get HTTP status code from Marqo health endpoint
+    HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:8882/health)
+    if [ "$HTTP_STATUS" = "200" ]; then
+        echo -e "${GREEN}✓ Marqo is running${NC}"
+    else
+        echo -e "${RED}✗ Marqo is not running (HTTP status: $HTTP_STATUS)${NC}"
+        echo "To start Marqo, run: docker run -p 8882:8882 marqoai/marqo:latest"
+    fi
 else
-    echo -e "${RED}✗ Marqo is not running${NC}"
+    echo -e "${RED}✗ Cannot check if Marqo is running - curl not found${NC}"
     echo "To start Marqo, run: docker run -p 8882:8882 marqoai/marqo:latest"
 fi 
 
